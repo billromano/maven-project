@@ -150,7 +150,7 @@
 			<groupId>org.apache.derby</groupId>
 			<artifactId>derby</artifactId>
 			<version>${derby.version}</version>
-			<scope>provided</scope>
+			<scope>compile</scope>
 		</dependency>
 		<!-- for testing -->
 		<dependency>
